@@ -1,4 +1,4 @@
-Lucas Gabriel Faustino da Silva
+<h1>Olá eu sou o Lucas!</h1>
 Desenvolvedor Fullstack em Formação
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Front-end%3A+React+%7C+Angular+%7C+JavaScript;Back-end%3A+.NET+%7C+Node.js+%7C+APIs+REST;Ferramentas%3A+VS+Code+%7C+Git+%7C+GitHub" alt="Tecnologias que trabalho" /> </div>
 👋 Sobre Mim
