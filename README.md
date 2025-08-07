@@ -14,22 +14,22 @@ Desenvolvimento de projetos pessoais para consolidar conhecimento
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;"> <!-- Front-end --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"> <!-- Back-end --> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <!-- Ferramentas --> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </div>
 💻 Meus Projetos
 1. GranShop - API .NET
-https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white
+https://github.com/LucasGabrielFaustinoDaSilva/GranShop
 🛠 Tecnologias: .NET 9, C#, APIs REST
 📌 Objetivo: Sistema CRUD completo para estudo de back-end
 
 2. DayNight Checker
-https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white
+https://lucasgabrielfaustinodasilva.github.io/DayNightChecker/
 🛠 Tecnologias: HTML, CSS, JavaScript
 📌 Funcionalidade: Altera tema conforme horário do dia
 
 3. Loja Online
-https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white
+https://lucasgabrielfaustinodasilva.github.io/Loja-Online/index.html
 🛠 Tecnologias: JavaScript, DOM Manipulation
 📌 Destaque: Carrinho de compras dinâmico
 
 4. Lista de Tarefas Angular
-https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white
+https://github.com/LucasGabrielFaustinoDaSilva/lista_de_tarefas
 🛠 Tecnologias: Angular, TypeScript
 📌 Característica: Persistência local de dados
 
